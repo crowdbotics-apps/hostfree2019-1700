@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hostfree2019_1700.wsgi:application
